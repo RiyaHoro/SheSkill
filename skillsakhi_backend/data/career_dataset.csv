@@ -1,0 +1,11 @@
+age,education,interests,work_preference,career,required_skills,demand_level
+22,basic,cooking,part_time,Home Caterer,"Cooking,Food Safety,Budgeting",medium
+27,basic,cooking,wfh,Food Blogger,"Content Writing,Photography,SEO",high
+30,intermediate,cooking,full_time,Cloud Kitchen Assistant,"Kitchen Ops,Cooking,Inventory",high
+24,graduate,analysis,full_time,Data Analyst,"SQL,Excel,Python,Power BI",high
+28,graduate,analysis,wfh,Business Analyst,"Excel,SQL,Stakeholder Management",high
+26,graduate,design,freelancing,Graphic Designer,"Canva,Adobe Photoshop,Branding",high
+23,intermediate,design,wfh,UI Designer,"Figma,Wireframing,UX Basics",high
+29,graduate,teaching,part_time,Online Tutor,"Subject Expertise,Communication,Zoom",medium
+31,graduate,teaching,full_time,Pre-school Teacher,"Child Psychology,Lesson Planning,Communication",medium
+25,graduate,analysis,freelancing,Data Visualization Specialist,"Power BI,Tableau,Data Storytelling",high
